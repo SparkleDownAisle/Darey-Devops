@@ -1,6 +1,9 @@
 # Version Control Workflow Project (with Git & GitHub)
 This project simulates a real-life Git and GitHub workflow where two collaborators (Tom and Jerry) make changes to the same HTML file from different Git branches. It involves cloning a repo, branching, editing files, making commits, pushing to GitHub, and creating pull requests to merge changes.
 ## 1. Initial Setup
+### . Git Version
+I verified the installation of git by running git --version
+![git --version](./Git%20version.png)
 ### . Cloned the GitHub Repository
 
 This copies an existing Git repository into your local computer
