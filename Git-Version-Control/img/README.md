@@ -59,6 +59,16 @@ Saved and closed the file
 ## 11. Pushed Jerry's Branch To Github
 ![Git push](./Git%20push%20for%20Jerry15.png)
 
+### Tom's Pull Request
+![](./21.%20Pull%20request%20created.png)
+![](./22.%20Pull%20request%20update%20navigation.png)
+
+## Merged Tom's Request
+![](./23.%20Merge%20pull%20request%20for%20Tom.png)
+
+## Confirmed Pull Request Merged for Tom
+1[](./24.%20confirm%20merge.png)
+
 ## 12. Created Pull Request for Jerry on GitHub
 ### . Opened Github Repo
 ![](./Git%20hub%20repo.png)
