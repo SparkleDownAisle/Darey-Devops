@@ -8,7 +8,7 @@ I verified the installation of git by running git --version
 
 This copies an existing Git repository into your local computer
 
-![Clone](./Git%20clone1.png)
+![](./5.%20clone.png)
 
 ### . Entered The Project Folder
 ![Change Directory](./Cd%20command.png)
